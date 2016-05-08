@@ -49,3 +49,4 @@ group :production do
 end
 
 gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
